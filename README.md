@@ -6,7 +6,7 @@ This analysis uses credit card data from LendingClub to predict credit risk. In 
 ## Results: 
 
 ### Randon Oversampling
-![Naive_Random Oversampling](screenshots/Naive_Random Oversampling.png)
+![Naive_Random_Oversampling](screenshots/Naive_Random_Oversampling.png)
 * The balance accuracy score for the Oversampling model was .66. This is not very high or very low accuracy
 * There is high precision for predicting people with low-risk of credit fraud. 
 * Low precision (.01) for predicting people with high-risk of credit fraud. It is more essential to predict people with high-risk of credit fraud so this is not good. 
